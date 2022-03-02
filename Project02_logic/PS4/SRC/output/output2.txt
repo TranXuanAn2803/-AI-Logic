@@ -1,0 +1,35 @@
+8
+-A OR C OR D OR F
+-A OR B OR F
+B OR C
+-A OR -B OR F
+-B OR D
+-D OR F
+-A OR -D
+-C
+12
+-A OR C OR F
+-A OR C OR D
+-A OR B
+-A OR D OR F
+C OR D OR F
+-B OR F
+B OR F
+-D
+-A OR -B
+-A OR F
+C OR D
+B
+9
+-A OR C
+D OR F
+C OR F
+-B
+F
+-A OR D
+-A
+D
+C
+1
+{}
+YES
